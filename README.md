@@ -1,9 +1,8 @@
 # Introduction
+We have developed an application that uses Matlab and Reaper to interact through hand gestures. Reaper is audio editing software. Using a gesture recognition system developed in a previous research, we have created an application that allows you to control audio tracks through hand gestures using Myo or GForce Armband.
 
 <img src="/Images/gforce.png"/>
 <img src="/Images/myo.png" />
-
-We have developed an application that uses Matlab and Reaper to interact through hand gestures. Reaper is audio editing software. Using a gesture recognition system developed in a previous research, we have created an application that allows you to control audio tracks through hand gestures.
 
 # Matlab App
 The Classifier to implement the App is located in the following link:
