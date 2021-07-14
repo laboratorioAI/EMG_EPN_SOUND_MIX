@@ -1,6 +1,7 @@
 # Introduction
 
-<img src="/Images/gforce.png" src="/Images/myo.png" />
+<img src="/Images/gforce.png"/>
+<img src="/Images/myo.png" />
 
 We have developed an application that uses Matlab and Reaper to interact through hand gestures. Reaper is audio editing software. Using a gesture recognition system developed in a previous research, we have created an application that allows you to control audio tracks through hand gestures.
 
